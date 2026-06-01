@@ -36,7 +36,7 @@
 <br />
 
 <p align="center">
-  <img src="images/sts-creation3.png" height="85%" width="85%" alt="Spiceworks Ticketing System"/>
+  <img src="images/sts-creation4.png" height="85%" width="85%" alt="Spiceworks Ticketing System"/>
 </p>
 
 <br />
