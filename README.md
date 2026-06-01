@@ -10,4 +10,6 @@
 
 <br />
 
-<p></p>
+<p>
+  <img src="images/vm-creation1.png" height="85%" width="85%" alt="virtual machine DC01"/>
+</p>
