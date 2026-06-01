@@ -10,6 +10,7 @@
 
 <br />
 
-<p>
-  <img src="images/sts-creation0.png" height="85%" width="85%" alt="virtual machine DC01"/>
+<p align="center">
+  <img src="images/sts-creation0.png" height="85%" width="85%" alt="Spiceworks Ticketing System"/>
+  <img src="images/sts-creation1.png" height="85%" width="85%" alt="Spiceworks Ticketing System"/>
 </p>
