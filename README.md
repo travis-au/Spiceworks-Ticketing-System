@@ -11,5 +11,5 @@
 <br />
 
 <p>
-  <img src="images/vm-creation1.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/sts-creation0.png" height="85%" width="85%" alt="virtual machine DC01"/>
 </p>
