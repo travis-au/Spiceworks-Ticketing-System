@@ -8,7 +8,7 @@
 
 <br />
 <br />
-<hr style="border: 0; height: 2px; background: #fff;">
+
 <p>
   “In this step, I added new employees to the Spiceworks Help Desk system. I entered the user’s basic information, assigned the appropriate role with ticket access permissions, enabled organization‑wide access, and configured email notifications so the employee receives updates automatically.”
 </p>
