@@ -2,11 +2,12 @@
 
 <h1>Working with Spiceworks Cloud Help desk</h1>
 
-<br />
-
 <h2>Description</h2>
 
+<b>This project demonstrates how to set up and use the Spiceworks Cloud Help Desk to manage IT support tickets in a realistic service‑desk workflow. It covers creating the help desk environment, adding users, assigning roles, and handling tickets from submission through resolution, showcasing essential troubleshooting and communication skills.<b/>
 
+<br />
+<br />
 
 <p>
   “In this step, I added new employees to the Spiceworks Help Desk system. I entered the user’s basic information, assigned the appropriate role with ticket access permissions, enabled organization‑wide access, and configured email notifications so the employee receives updates automatically.”
